@@ -1,0 +1,29 @@
+{
+  "name": "restful-api-node-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay-sugiura/restful-api-node-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ay-sugiura/restful-api-node-ts/issues"
+  },
+  "homepage": "https://github.com/ay-sugiura/restful-api-node-ts#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
