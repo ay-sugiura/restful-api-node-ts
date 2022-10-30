@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "ts-node index.ts",
     "build": "webpack",
-    "watch": "webpack -w"
+    "watch": "webpack -w",
+    "serve": "node dist/main.js"
   },
   "repository": {
     "type": "git",

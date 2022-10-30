@@ -5,6 +5,7 @@ module.exports = {
 
   // メインとなるJavaScriptファイル（エントリーポイント）
   entry: './src/index.ts',
+  // webブラウザではなくnodeで利用する場合target設定が必要
   target: 'node',
   module: {
     rules: [
